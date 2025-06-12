@@ -1,7 +1,7 @@
 class Config:
-    FRED_API_KEY = 'Your Fred API Key'
-    NEWS_API_KEY = 'Your News API Key'
-    STOCK_TICKER = 'WELL.TO'
+    FRED_API_KEY = '88c8fb0f2c51cc0c73f6740d50766fc9'
+    NEWS_API_KEY = '9cfb286edf7c416086edcc8d9c8e89cd'
+    STOCK_TICKER = 'GOOG'
     START_DATE = '2010-01-01'
     END_DATE = '2023-01-01'
     TIME_STEP = 100
